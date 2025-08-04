@@ -19,10 +19,7 @@ Welcome to the **Git Flows** project! This repository serves as a hands-on guide
 - [📸 Example Git Flow Usage](#-example-git-flow-usage)
 - [📦 Features](#-features)
 - [📑 Git Best Practices](#-git-best-practices)
-- [👥 Contributing](#-contributing)
-- [🔖 License](#-license)
-- [📞 Contact](#-contact)
-
+  
 ---
 
 ## 📂 Project Structure
